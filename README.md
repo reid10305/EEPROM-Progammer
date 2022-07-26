@@ -2,7 +2,7 @@
 Arduino EEPROM programmer
 Arduino code is adapted from the code created by Ben Eater under an MIT License. The original code 
 can be found at the following URL, along with any other details about the original code:
-    https://github.com/beneater/eeprom-programmer
+    https://github.com/beneate  r /eeprom-programmer
     
 The adapted version solely adds the ability to recieve the data to be written to the EEPROM via
 the serial interface built into the Arduino. The data is passed over the serial interface by 
@@ -19,4 +19,5 @@ After obataining both parameters, the script will immediatley being sending data
 the Arduino. When all of the data is sent, the script will terminate. 
 
 The Arduino script is intended, and tested, for use on an Arduino Nano. The python script has been
-developed for use on a Windows machine. There are currently no plans for MacOS or Linux development. 
+developed for use on a Windows machine. There are currently no plans for MacOS or Linux development,
+as of 07/2022.
