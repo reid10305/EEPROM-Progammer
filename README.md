@@ -2,7 +2,7 @@
 Arduino EEPROM programmer
 Arduino code is adapted from the code created by Ben Eater under an MIT License. The original code 
 can be found at the following URL, along with any other details about the original code:
-    https://github.com/beneate  r /eeprom-programmer
+    https://github.com/beneater/eeprom-programmer
     
 The adapted version solely adds the ability to recieve the data to be written to the EEPROM via
 the serial interface built into the Arduino. The data is passed over the serial interface by 
